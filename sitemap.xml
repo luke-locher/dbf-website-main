@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://dbf.ucsd.edu/</loc>
+  <lastmod>2020-09-14T03:20:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://dbf.ucsd.edu/join.html</loc>
+  <lastmod>2020-09-14T03:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dbf.ucsd.edu/teams/report.html</loc>
+  <lastmod>2020-09-14T03:20:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dbf.ucsd.edu/teams/aerodynamics.html</loc>
+  <lastmod>2020-09-14T03:20:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dbf.ucsd.edu/teams/propulsions.html</loc>
+  <lastmod>2020-09-14T03:20:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dbf.ucsd.edu/teams/structures.html</loc>
+  <lastmod>2020-09-14T03:20:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dbf.ucsd.edu/teams/fabrications.html</loc>
+  <lastmod>2020-09-14T03:20:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dbf.ucsd.edu/teams/finance.html</loc>
+  <lastmod>2020-09-14T03:20:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dbf.ucsd.edu/gallery.html</loc>
+  <lastmod>2020-09-14T03:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dbf.ucsd.edu/sponsors.html</loc>
+  <lastmod>2020-09-14T03:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dbf.ucsd.edu/index.html</loc>
+  <lastmod>2020-09-14T03:20:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
